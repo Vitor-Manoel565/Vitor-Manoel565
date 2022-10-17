@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá me chamo Vitor Manoel! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Trabalho com desenvolvimento Front-End
+- 🌱 Estou estudando React TS
 <div>
   <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Manoel565&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
