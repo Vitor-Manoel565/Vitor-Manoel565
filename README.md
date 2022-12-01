@@ -1,6 +1,6 @@
 ### Olá me chamo Vitor Manoel! 👋
 
-- 🔭 Trabalho com desenvolvimento Front-End
+- 🔭 Trabalho com desenvolvimento web full stack
 - 🌱 Estou estudando React TS
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Manoel565&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
